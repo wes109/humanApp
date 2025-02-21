@@ -2,12 +2,13 @@
 
 > Real-time monitoring tool for Human.app token status changes and DEX listings.
 
-![Captu1re](https://github.com/user-attachments/assets/e0554eee-3544-4af7-83e7-8cf6a8437f87)
-
-
 ## 📝 Overview
 
 This tool monitors Human.app user tokens and their status changes. Human.app is a SocialFi platform where popular Twitter/X influencers automatically receive their own tokens that people can invest in. The monitor tracks high-follower accounts and sends notifications through Discord when their token status changes.
+
+
+![Captu1re](https://github.com/user-attachments/assets/e0554eee-3544-4af7-83e7-8cf6a8437f87)
+
 
 ## ✨ Features
 
