@@ -84,11 +84,3 @@ This tool utilizes an unofficial API endpoint. Please use responsibly and be awa
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/wes109/humanApp/issues).
-
-## 📞 Support
-
-For support, please open an issue in the GitHub repository.
